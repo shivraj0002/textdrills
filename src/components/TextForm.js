@@ -80,42 +80,42 @@ export default function TextForm(props) {
       </div>
       <div>
         <button
-          className="btn btn-primary mx-1 "
+          className="btn btn-primary mx-1 my-1 "
           type="submit"
           onClick={handleUpClick}
         >
           convert in UPPER
         </button>
         <button
-          className="btn btn-primary mx-1 "
+          className="btn btn-primary mx-1 my-1 "
           type="submit"
           onClick={handleLoClick}
         >
           convert in lower
         </button>
         <button
-          className="btn btn-primary mx-1 "
+          className="btn btn-primary mx-1 my-1 "
           type="submit"
           onClick={handleClrClick}
         >
           clear text
         </button>
         <button
-          className="btn btn-primary mx-1 "
+          className="btn btn-primary mx-1 my-1 "
           type="submit"
           onClick={handleRemWhClick}
         >
           remove white spaces
         </button>
         <button
-          className="btn btn-primary mx-1 "
+          className="btn btn-primary mx-1 my-1 "
           type="submit"
           onClick={handleCopyClick}
         >
           copy
         </button>
         <button
-          className="btn btn-primary mx-1 "
+          className="btn btn-primary mx-1 my-1 "
           type="submit"
           onClick={handleExtraClick}
         >
