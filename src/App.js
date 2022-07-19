@@ -56,7 +56,7 @@ function App() {
     <>
     {/* <Router> */}
     {/* <Navbar/> */}
-    <Navbar title='TextUtils'  aboutText= 'About us' mode={mode} toggleMode={toggleMode} customColorPicker={customColorPicker} customBg={customBg}/>
+    <Navbar title='TextDrills'  aboutText= 'About us' mode={mode} toggleMode={toggleMode} customColorPicker={customColorPicker} customBg={customBg}/>
     <Alert alert={alert}/>
     <div className="container">
     {/* <Routes>
