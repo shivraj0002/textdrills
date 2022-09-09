@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/textdrills/static/css/main.e6c13ad2.css",
+    "main.js": "/textdrills/static/js/main.90436a94.js",
+    "static/js/787.77fa8369.chunk.js": "/textdrills/static/js/787.77fa8369.chunk.js",
+    "index.html": "/textdrills/index.html",
+    "main.e6c13ad2.css.map": "/textdrills/static/css/main.e6c13ad2.css.map",
+    "main.90436a94.js.map": "/textdrills/static/js/main.90436a94.js.map",
+    "787.77fa8369.chunk.js.map": "/textdrills/static/js/787.77fa8369.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.90436a94.js"
+  ]
+}
